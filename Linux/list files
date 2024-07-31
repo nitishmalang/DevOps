@@ -1,0 +1,11 @@
+**What is ls?
+
+This is the list command. It allows us... list the content of the directory.
+
+`ls`
+
+after running it we get on the screen is a list of the content of the current directory.
+
+What is visible immediately, that we have different colors. We can imagine what it means, but let's forget it for a second. What many waves of "classic" sys admins saw in their days:
+
+`ls --color=no`
