@@ -20,7 +20,7 @@ for auto
 `ls --color=auto`
 
 
-## How to get more details
+### How to get more details
 
 For clearing screen
 
