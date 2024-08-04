@@ -75,3 +75,6 @@ This shows the short list of files and allocated space. As we already know, we c
 
 ### Different formats
 
+ `ls --format=commas` will print the files separated by commas. We can use shorter syntax and write
+
+`ls -m`
