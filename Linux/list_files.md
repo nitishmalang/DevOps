@@ -81,4 +81,10 @@ for printing in long format
 
  `ls --format=commas` will print the files separated by commas. We can use shorter syntax and write
 
-`ls -m`
+ `ls -m`
+ `ls -lQ`  prints the filenames in quotes
+
+
+`ls -l --time-style=locale`
+`ls -l --time-style=iso`
+`ls -l --time-style=full-iso`
