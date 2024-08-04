@@ -68,4 +68,10 @@ Basically these are all sorting commands, we have to play with them as per requi
 
 `ls -s`
 
+This shows the short list of files and allocated space. As we already know, we can combine this argument - s - with others. Let's do it.
+
+`ls -ls`
+
+
+
 
