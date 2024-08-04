@@ -62,3 +62,8 @@ Ok, now let's print the list and order it by ctime - metadata change.
 `ls -ltc`
 
 Basically these are all sorting commands, we have to play with them as per requirements
+
+
+### Sort content by size
+
+
