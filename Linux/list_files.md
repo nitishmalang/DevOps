@@ -72,6 +72,10 @@ This shows the short list of files and allocated space. As we already know, we c
 
 `ls -ls`
 
+for printing in long format
+
+`ls --format=long`
+
 
 ### Different formats
 
