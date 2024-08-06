@@ -2,5 +2,5 @@ Docker is a platform designed to help developers build, share, and run modern ap
 
 
 ## Bare Metal
-## Virtual Machines
+## Virtual Machine
 ## Containers
